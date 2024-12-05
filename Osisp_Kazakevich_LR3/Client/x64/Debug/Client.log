@@ -1,0 +1,4 @@
+﻿  client.cpp
+D:\Laby\Osisp\Osisp_Kazakevich_LR3\Client\client.cpp(33,50): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Laby\Osisp\Osisp_Kazakevich_LR3\Client\client.cpp(42,41): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Client.vcxproj -> D:\Laby\Osisp\Osisp_Kazakevich_LR3\x64\Debug\Client.exe
